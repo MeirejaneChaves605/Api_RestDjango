@@ -29,7 +29,7 @@ Essa API permite criar, listar, atualizar e deletar **Projetos** e suas **Tarefa
 ## 🚀 Como rodar localmente  
  bash  
 # 1. Clone o repositório  
-git clone https://github.com/natallymorais/API-REST.git  
+https://github.com/MeirejaneChaves605/Api_RestDjango.git
 cd API-REST  
 
 # 2. Crie e ative um ambiente virtual  
