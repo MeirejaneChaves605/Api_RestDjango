@@ -1,6 +1,8 @@
 # Api_RestDjango
 Sistema de gestão de **Projetos** e **Tarefas** — backend em Django + Django REST Framework  
 
+# Avaliação 4
+
 ## 🔎 Visão Geral  
 Essa API permite criar, listar, atualizar e deletar **Projetos** e suas **Tarefas** associadas (relação 1:N). Também permite filtrar tarefas por projeto. Suporta autenticação via token e está documentada com OpenAPI/Swagger.
 
